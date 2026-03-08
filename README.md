@@ -16,7 +16,7 @@ How It Works
 It’s like having a personal assistant for your screenshots!  
 
  Tech Behind the Magic
-- Python 3.x – The backbone of the project  
+-Python 3.x – The backbone of the project  
 - Streamlit– Creates the interactive web interface  
 - PIL (Pillow) – Handles image opening and processing  
 - Pytesseract – Detects and extracts text from screenshots  
@@ -24,10 +24,10 @@ It’s like having a personal assistant for your screenshots!
 
 folder structure
  smart-screenshot-organizer
- app.py             - Streamlit interface
- classifier.py      - Screenshot categorization logic
- screenshots/       - Temporary uploaded screenshots
- categorized/       - Organized screenshots
- requirements.txt   - Python dependencies
+1 app.py             - Streamlit interface
+2 classifier.py      - Screenshot categorization logic
+3 screenshots/       - Temporary uploaded screenshots
+4 categorized/       - Organized screenshots
+5 requirements.txt   - Python dependencies
 
 I built this project to save time and stay organized, and I hope it helps anyone who deals with hundreds of screenshots every day.
