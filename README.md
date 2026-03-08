@@ -25,10 +25,10 @@ It’s like having a personal assistant for your screenshots!
 
 smart-screenshot-organizer/
 │
-├─ app.py             # Streamlit interface
-├─ classifier.py      # Screenshot categorization logic
-├─ screenshots/       # Temporary uploaded screenshots
-├─ categorized/       # Organized screenshots
-└─ requirements.txt   # Python dependencies
+├─ app.py             - Streamlit interface
+├─ classifier.py      - Screenshot categorization logic
+├─ screenshots/       - Temporary uploaded screenshots
+├─ categorized/       - Organized screenshots
+└─ requirements.txt   - Python dependencies
 
 I built this project to save time and stay organized, and I hope it helps anyone who deals with hundreds of screenshots every day.
