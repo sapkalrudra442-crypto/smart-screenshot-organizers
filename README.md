@@ -22,12 +22,13 @@ It’s like having a personal assistant for your screenshots!
 - Pytesseract – Detects and extracts text from screenshots  
 - OS Module – Organizes files into categories automatically  
 
-folder structure
- smart-screenshot-organizer
-1 app.py             - Streamlit interface
-2 classifier.py      - Screenshot categorization logic
-3 screenshots/       - Temporary uploaded screenshots
-4 categorized/       - Organized screenshots
-5 requirements.txt   - Python dependencies
+
+smart-screenshot-organizer/
+│
+├─ app.py             # Streamlit interface
+├─ classifier.py      # Screenshot categorization logic
+├─ screenshots/       # Temporary uploaded screenshots
+├─ categorized/       # Organized screenshots
+└─ requirements.txt   # Python dependencies
 
 I built this project to save time and stay organized, and I hope it helps anyone who deals with hundreds of screenshots every day.
