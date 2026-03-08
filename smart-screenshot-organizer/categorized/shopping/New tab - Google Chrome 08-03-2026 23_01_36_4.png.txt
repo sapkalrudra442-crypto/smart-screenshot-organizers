@@ -1,0 +1,31 @@
+¥ @ designs x buyone x © shhopin x © prices: xx | ¥ downlo x | ©) home-: x | |my smarts x  ©@ pricesc x fm pricetra x © coding: x © github x
+
+< > g — &% github.com/byteperks/code-screenshot
+
+1) readme = ® owatching
+y 1 fork
+theme ~ report repository
+oae snap ae
+releases
+create and share beautiful images of your source code. mee
+ch & no releases published
+font
+coo byte perks packages
+public class letsbuild { roboto mono ©
+public static void main(string[] args) { no pee cies lunstse
+font size
+string code = "byte"; *
+string snap = “perks"; b contributors 1
+system.out.printin(it's “ + code + " “ + snap); ey
+& > bmasmhj bimash maharjan
+<<
+background
+{ @)
+
+darkmode
+
+codesnap is a website & extension that allows you to create, manage and share beautiful images of your code
+snippets.
+
+elevating code visualization with codesnap: a web & chrome extension for
+40+ languages
